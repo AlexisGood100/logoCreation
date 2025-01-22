@@ -52,6 +52,10 @@ margin:1rem;
     .projects-container {
         text-align: center;
     }
+    .change-background-buttons-container{
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 @media (max-width: 480px) {
